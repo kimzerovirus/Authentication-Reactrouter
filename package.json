@@ -1,5 +1,6 @@
 {
-  "name": "a",
+  "name": "authentication",
+  "homepage":"https://kimzerovirus.github.io/Authentication-Reactrouter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
