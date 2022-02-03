@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/core": "^7.16.12",
     "@typescript-eslint/eslint-plugin": "^5.10.2",
     "@typescript-eslint/parser": "^5.10.2",
     "autoprefixer": "^10.4.2",
